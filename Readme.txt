@@ -1,6 +1,7 @@
 Thanks for downloading this template!
 
 Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+Author: Kaugi Felix
+License: MIT
+This is A Homeork Help assignment website that is designed in php to help students handle assignment
