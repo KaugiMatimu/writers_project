@@ -1,0 +1,19 @@
+{
+    "name": "felix/writemyassignment",
+    "description": "homeworkhelp",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Felix\\Writemyassignment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaugi"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
